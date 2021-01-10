@@ -70,6 +70,9 @@
 
     <!-- Traffic light package to use -->
     <string name="config_face_enroll_traffic_light_package"></string>
+    
+    <!-- Whether to show double tap ambient settings -->
+    <bool name="config_supports_double_tap_ambient" translatable="false">false</bool>     
 
     <!-- Face enroll finish text -->
     <string name="security_settings_face_enroll_finish_description_with_bp">Now you can use your face to unlock your phone or verify it’s you, like when you sign in to apps or approve a purchase</string>
