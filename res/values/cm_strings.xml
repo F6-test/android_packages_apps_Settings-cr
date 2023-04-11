@@ -168,6 +168,12 @@
     <string name="battery_health_cold">Cold</string>
     <string name="battery_health_unknown">Unknown</string>
 
+    <!-- Ambient wake toggles -->
+    <string name="doze_gesture_ambient_title">Show Ambient</string>
+    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
+    <string name="gesture_wake_ambient">Show Ambient</string>
+    <string name="gesture_wake">Fully wake</string>
+
     <!-- Battery Info: Temperature -->
     <string name="battery_temperature">Temperature</string>
     <string name="battery_temperature_not_available" translatable="false">@string/battery_cycle_count_not_available</string>
