@@ -32,7 +32,7 @@ import com.android.settings.display.AmbientDisplaySettingsController;
 import com.android.settings.overlay.FeatureFactory;
 import com.android.settingslib.core.instrumentation.MetricsFeatureProvider;
 
-import com.clover.settings.preference.SecureSettingSwitchPreference;
+import com.crdroid.settings.preference.SecureSettingSwitchPreference;
 
 public class AmbientDisplayNotificationsPreferenceController extends
         TogglePreferenceController implements Preference.OnPreferenceChangeListener {
